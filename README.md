@@ -1,4 +1,4 @@
-# Sr. Software Engineer Coding Exercise
+# Coding Exercise
 
 # Summary
 Write a Java command line program `quotely` which takes as an argument `English` or `Russian` and returns a quote from the forismatic API with the correct language.
